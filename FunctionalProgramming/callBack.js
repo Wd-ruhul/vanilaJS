@@ -11,4 +11,5 @@ function callme() {
 }
 
 greet('Ruhul Amin', callme);
+greet('Ruhul', callme);
 
